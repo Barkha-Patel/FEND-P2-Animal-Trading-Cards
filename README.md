@@ -1,4 +1,5 @@
 # FEND-P2-Animal-Trading-Cards
+Project 2 of Udacity's Front End Web Developer Nanodegree 
 
 Translate a design prototype into a web page using HTML and CSS. 
 
